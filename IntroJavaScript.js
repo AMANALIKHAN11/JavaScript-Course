@@ -50,4 +50,3 @@ function printNumbers(a, b) {
                                                         // firstly open the goggle and browser and search google docs then after signup  and create a file and document for working 
 //                                                         then copy to docs lin for send request any person and multiple user work together is possible by javascript.
 //                                                                    
-
