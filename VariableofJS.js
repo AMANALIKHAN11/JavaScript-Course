@@ -52,3 +52,17 @@ aman = 10;       // Initialization
 console.log(aman); // 10 
 let number; 
 console.log(number); // yha error aayegi kyuki uninitilized h or TDZ m rhete h 
+   
+
+
+//               How JavaScript Stores Variables in Memmory
+// javascript store variable in two memmory :-
+//                                            Stack memmory, Heap memmory
+
+//Stack Memmor => it is storre premitive data such as(number,string,boolean,char,string);and varaiable are copy when the new variable assign 
+let nums1=4;
+let nums2=nums1;// copy vaue wthout reeffrence.
+nums2=10;
+console.log(nums1);//output is 4
+console.log(nums2);// output is 10;
+
