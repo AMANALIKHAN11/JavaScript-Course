@@ -31,7 +31,7 @@
 //                                                                  2 :- Local varable  this is use and accessible only block 
 //                                                                  3 :- Function varible this is use and accessible only function 
  function number(){
-    var aofNumber=20;
+    var aofNumber=20;   
     if(aofNumber==10){
         let bofNumber=10;
         const cofNumber=30;

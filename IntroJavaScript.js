@@ -25,3 +25,25 @@
 //Running Enviroment :- when the file is created in vs code then After you write the code such as
      let userName="Aman Ali Khan";
      console.log(userName);  // And save this code after that open the terminal and write this command " node 'yourfilename'.js" then we can see the output
+
+
+     // why JavaScript is important role in web, AI, Cloud ,Web3
+// JavaScript in the Web Development :=
+                                     // Javascript is work in cross platform such as backend and fronted webdevelopment
+                                     // it is use node.js ,next.js,angular& vue.js,expres
+// Javascript in the AI              := tensorflow.js and brain.js is useful framwork in javascript for Ai tool like NLP
+//
+
+
+
+
+// v8 engine :=- V8 has an advanced garbage collector that removes unused variables and objects from memory.
+//               This frees up space automatically and improves performance. 
+function printNumbers(a, b) {
+        return a , b;
+    }                    // faster, improve node.js aaplication
+    console.log(1,2);
+    console.log(3,4);
+    console.log(5,6);
+
+//                
