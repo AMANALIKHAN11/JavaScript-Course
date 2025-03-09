@@ -66,3 +66,13 @@ nums2=10;
 console.log(nums1);//output is  4 
 console.log(nums2);// output is 10;
 
+//         How work Garbage Collection in Javscript
+//javascript Engine  is use garbage collection alghorithum which is use to manage memmory.
+function createUser() {
+    let user = { name: "Sunil" }; // Memory allocated for object
+    return user;
+}
+
+let newUser = createUser(); // 'user' is still accessible
+newUser = null; // Now 'user' is unreachable and will be garbage collected
+
