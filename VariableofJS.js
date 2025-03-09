@@ -63,6 +63,6 @@ console.log(number); // yha error aayegi kyuki uninitilized h or TDZ m rhete h
 let nums1=4;
 let nums2=nums1;// copy vaue wthout reeffrence.
 nums2=10;
-console.log(nums1);//output is 4
+console.log(nums1);//output is  4 
 console.log(nums2);// output is 10;
 
