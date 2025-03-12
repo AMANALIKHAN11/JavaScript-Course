@@ -59,7 +59,7 @@ console.log("Valid age entered:", age);
 
 //4. for-in Loop (Used for Objects)
 //  Best for: Iterating over object properties.
-let user = { name: "Alice", age: 25, city: "New York" };
+let user = { name: "Alice", age: 25, city: "jaipur" };
 
 for (let key in user) {// only for use object you can use array but javascript is not recommonded
     console.log(key + ": " + user[key]);// out put is name:"alice,age: 25,city : newyork
