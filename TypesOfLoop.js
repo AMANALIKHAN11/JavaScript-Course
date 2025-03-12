@@ -65,6 +65,14 @@ for (let key in user) {// only for use object you can use array but javascript i
     console.log(key + ": " + user[key]);// out put is name:"alice,age: 25,city : newyork
 }
 
+// each-loop 
+//The forEach loop is specifically designed for arrays. It automatically loops through each element without requiring an explicit condition.
+let colors = ["Red", "Green", "Blue"];
+
+colors.forEach(function(color) {
+    console.log("Color:", color);
+});
+
 
 // Loops are a **core concept in JavaScript**, helping you:
 
