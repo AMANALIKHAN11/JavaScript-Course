@@ -43,8 +43,6 @@ console.log(number1)// reference error
 // Declare variables at the beginning of their scope to avoid hoisting issues.
 // Use strict mode ("use strict";) to catch undeclared global variables.
 // Use strict mode ("use strict";) to catch undeclared global variables.
-
-
 //                             2. Performance Optimization
 
 // 1 JavaScript Engines Optimize Execution for Speed
